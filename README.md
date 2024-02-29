@@ -1,1 +1,1 @@
- This project showcases a simple yet elegant photography website with a stylish sidebar feature. The website is designed to beautifully display your photography portfolio while incorporating a user-friendly sidebar for easy navigation.
+This is my first project using html and css and this project showcases a simple yet elegant photography website with a stylish sidebar feature. The website is designed to beautifully display your photography portfolio while incorporating a user-friendly sidebar for easy navigation.
